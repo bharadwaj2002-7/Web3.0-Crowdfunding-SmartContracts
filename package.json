@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^4.0.17",
+    "styled-components": "^6.1.1"
+  }
+}
